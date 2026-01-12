@@ -11,12 +11,14 @@
 ## Installation
 
 1. Install Docker Desktop according to the instructions at https://www.docker.com/products/docker-desktop
-2. Install Python packages:
-3. [Optional] Install WSL (Windows Subsystem for Linux) if you plan to run Linux-native tools.
+2. Install Python packages in requirements
+3. Install Piper voices, English (current Enlish voice needs  "en_US-amy-medium.onnx", Swedish current voice needs "sv_SE-lisa-medium.onnx")
+4. Use correct script ie suffix English or Swedish
+5. [Optional] Install WSL (Windows Subsystem for Linux) if you plan to run Linux-native tools.
    - See Microsoft’s guide: https://learn.microsoft.com/en-us/windows/wsl/install
-4. Install curl for Windows:
+6. Install curl for Windows:
    - Download curl.exe from [curl.se/windows/](https://curl.se/windows/)
-5. Install Ollama following their [official guide](https://ollama.com/download)
+7. Install Ollama following their [official guide](https://ollama.com/download)
 
 # 🖥️ Offline AI Setup: Ollama + LLaMA/Mistral + Whisper + Piper
 
