@@ -10,10 +10,6 @@
 1. Install Docker Desktop according to the instructions at https://www.docker.com/products/docker-desktop
 2. Install Python packages:
 
-## Features
-I’m running Ollama with LLaMA/Mistral7 (LLM), Whisper (speech-to-text for prompts), and Piper (text-to-speech) on my laptop Here’s a polished **GitHub README-style version** of your text:
-
-***
 
 # 🖥️ Offline AI Setup: Ollama + LLaMA/Mistral + Whisper + Piper
 
@@ -22,6 +18,7 @@ This project demonstrates how to run a fully **offline AI stack** on a laptop, e
 ***
 
 ## ✅ Features
+I’m running Ollama with LLaMA/Mistral7 (LLM), Whisper (speech-to-text for prompts), and Piper (text-to-speech) on my laptop
 
 *   **Continuous conversation in Swedish** (or English)
 *   **Completely offline** — no external API calls
