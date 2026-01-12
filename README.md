@@ -4,12 +4,19 @@
 
 - Python 3.10 or later
 - Docker Desktop (https://www.docker.com/products/docker-desktop)
+- [curl](https://curl.se/windows/) (for Windows: curl.exe)
+- [WSL (Windows Subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [Ollama](https://ollama.com/download) (for running language models)
 
 ## Installation
 
 1. Install Docker Desktop according to the instructions at https://www.docker.com/products/docker-desktop
 2. Install Python packages:
-
+3. [Optional] Install WSL (Windows Subsystem for Linux) if you plan to run Linux-native tools.
+   - See Microsoft’s guide: https://learn.microsoft.com/en-us/windows/wsl/install
+4. Install curl for Windows:
+   - Download curl.exe from [curl.se/windows/](https://curl.se/windows/)
+5. Install Ollama following their [official guide](https://ollama.com/download)
 
 # 🖥️ Offline AI Setup: Ollama + LLaMA/Mistral + Whisper + Piper
 
