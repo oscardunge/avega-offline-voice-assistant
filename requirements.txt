@@ -1,0 +1,15 @@
+sounddevice as sd
+soundfile as sf
+requests
+subprocess
+time
+os
+sounddevice as sd
+
+
+numpy as np
+librosa 
+keyboard
+
+piper-tts
+
