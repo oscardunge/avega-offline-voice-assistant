@@ -1,13 +1,13 @@
-sounddevice as sd
-soundfile as sf
+sounddevice
+soundfile
 requests
 subprocess
 time
 os
-sounddevice as sd
+sounddevice
 
 
-numpy as np
+numpy
 librosa 
 keyboard
 
